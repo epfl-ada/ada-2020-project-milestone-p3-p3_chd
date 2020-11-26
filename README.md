@@ -5,8 +5,12 @@ Test and verify the first 4 propositions on an one-month reddit comments dataset
 
 ## Abstract
 
-
- 
+In the paper, 10 propositions were tested on a representative twitter user dataset. And some of the results are not consistent with the previous study. We propose to use a different dataset to test again a part of these propositions. Reddit is another popular social new and discussion website. More precisely, the propositions that we decide to test is:
++ 20%-80% rule of content generation.
++ Originality, sociability, and syntactic use.
++ Circadian rhythms.
++ Attention and productivity.(but this also have follower-followee issue......)
+Some certain propositions cannot be properly tested because reddit doesn't have a follower-followee system.
 
 ## Research Questions
 
