@@ -10,6 +10,7 @@ In the paper, 10 propositions were tested on a representative twitter user datas
 + Originality, sociability, and syntactic use.
 + Circadian rhythms.
 + Attention and productivity.(but this also have follower-followee issue......)
+
 Some certain propositions cannot be properly tested because reddit doesn't have a follower-followee system.
 
 ## Research Questions
