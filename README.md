@@ -57,13 +57,13 @@ The database table has a total of 22 variables. To test our propositions we are 
 - Prepare part of the data story related to tasks 1 and 2
 - Prepare part of the video related to tasks 1 and 2
 
-```Haojun```
+```Haojun```:
 - Task 3: Data analysis on 20/80 rule
 - Task 4: Data analysis on circadian rhythms
 - Prepare part of the data story related to tasks 3 and 4
 - Prepare part of the video related to tasks 3 and 4
 
-```Clément```
+```Clément```:
 - Task 5: Data analysis on attention and productivity
 - Task 6: Data analysis on sociability
 - Prepare part of the data story related to tasks 5 and 6
