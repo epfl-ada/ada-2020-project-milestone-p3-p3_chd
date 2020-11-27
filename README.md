@@ -52,19 +52,22 @@ The database table has a total of 22 variables. To test our propositions we are 
 ## Organization within the team
 
 ```Dora```:
-- Extract data from the database
-- Data analysis on originality
-- Prepare data story
+- Task 1: Extract data from the database
+- Task 2: Data analysis on originality
+- Prepare part of the data story related to tasks 1 and 2
+- Prepare part of the video related to tasks 1 and 2
 
 ```Haojun```
-- Data analysis on 20/80 rule
-- Data analysis on circadian rhythms
-- Prepare data story
+- Task 3: Data analysis on 20/80 rule
+- Task 4: Data analysis on circadian rhythms
+- Prepare part of the data story related to tasks 3 and 4
+- Prepare part of the video related to tasks 3 and 4
 
 ```Clément```
-- Data analysis on attention and productivity
-- Data analysis on sociability
-- Prepare video
+- Task 5: Data analysis on attention and productivity
+- Task 6: Data analysis on sociability
+- Prepare part of the data story related to tasks 5 and 6
+- Prepare part of the video related to tasks 5 and 6
 
 
 ## Questions for TAs
